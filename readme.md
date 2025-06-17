@@ -2,8 +2,8 @@ This script exports a GitHub user's starred repositories (URL & description) to 
 
 Setup:
 
-    python -m pip install -i requirements.txt
-    pip install -i requirements.txt
+    python -m pip install -r requirements.txt
+    pip install -r requirements.txt
 
 Usage:
 
